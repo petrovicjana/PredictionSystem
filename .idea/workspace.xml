@@ -7,6 +7,7 @@
     <list default="true" id="2d646740-d1af-40fe-bf85-64fa7af5a6e8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ModelPredictionSystem/ModelPredictionSystem/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ModelPredictionSystem/ModelPredictionSystem/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ModelPredictionSystem/ModelPredictionSystem/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/ModelPredictionSystem/ModelPredictionSystem/wsgi.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
